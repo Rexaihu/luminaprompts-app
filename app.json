@@ -1,0 +1,28 @@
+{
+  "expo": {
+    "name": "LuminaPrompts",
+    "slug": "luminaprompts-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "dark",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#090910"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.rexaihu.luminaprompts"
+    },
+    "android": {
+      "package": "com.rexaihu.luminaprompts",
+      "versionCode": 1,
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#090910"
+      }
+    }
+  }
+}
